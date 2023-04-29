@@ -457,14 +457,14 @@ class Settings:
 
 PASTEL_COLORS = [
     # First tier
-    "#FFADAD",
-    "#FFD6A5",
-    "#FDFFB6",
-    "#CAFFBF",
-    "#9BF6FF",
-    "#A0C4FF",
-    "#BDB2FF",
-    "#FFC6FF",
+    "#1D04BF",
+    "#15038C",
+    "#2E34A6",
+    "#CEE1F2",
+    "#04D9D9",
+    "#D4F266",
+    "#A7BF4E",
+    "#D4F266",
     # Second tier
     "#FBF8CC",
     "#FDE4CF",
