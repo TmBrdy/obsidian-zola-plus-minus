@@ -44,7 +44,7 @@ body.dark {
 		background: rgba($color: #212529, $alpha: 0.0);
 		z-index: 2;
 		pointer-events: none;
-		> div > div > section > div > div.col-lg-9.col-xl-8.text-center >p{
+		> div > div > section > div > div.col-lg-9.col-xl-8.text-center.text-bold >p{
 			//probably not the pretty way to do this, but it should work
 			backdrop-filter: blur(1px) saturate(150%);
 			padding-bottom: 4%
