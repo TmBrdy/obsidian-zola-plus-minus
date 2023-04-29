@@ -3,8 +3,8 @@
 // Source: https://material.io/design/color/dark-theme.html
 
 $body-bg-dark: $gray-900;
-$body-overlay-dark: darken($body-bg-dark, 10%);
-$border-dark: darken($body-bg-dark, 2.5%);
+$body-overlay-dark: darken($body-bg-dark, 2.5%);
+$border-dark: darken($body-bg-dark, );
 $body-color-dark: $gray-300;
 $dots-dark: darken($body-color-dark, 50%);
 
